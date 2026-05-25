@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggersalidate",
+        "uuid": 703872,
+        "checksum": "mbk2kg"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
